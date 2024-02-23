@@ -61,10 +61,10 @@ val s= Set(1,2,3,4,5,6,7,8,9,1)
 
   val states = Map("AL" -> "Alabama", "AK" -> "Alaska")
 
-  capitals.get("France").get
-  capitals.get("SriLanka")
-
-  capitals.getOrElse("SriLanka","cntry not present")
+//  capitals.get("France").get
+//  capitals.get("SriLanka")
+//
+//  capitals.getOrElse("SriLanka","cntry not present")
 
 val str = Option("France")
 
