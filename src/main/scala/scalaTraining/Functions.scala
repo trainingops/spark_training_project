@@ -50,7 +50,7 @@ object Functions {
   def multiply(x: Int, y: Int): Int = {
 
     println(s"Multipying ${x} and $y")
-    x * y
+     x * y
   }
 
 
